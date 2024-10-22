@@ -1,4 +1,4 @@
-# ASP.NET Core performing crud operations by generic repository pattern logic,
+# ASP.NET Core performing crud operations by non-generic repository pattern logic,
 #Apply MVC
 #Apply model validations, 
 #Use TagHelpers,
